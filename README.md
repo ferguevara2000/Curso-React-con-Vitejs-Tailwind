@@ -1,0 +1,1 @@
+Este repositorio contiene los archivos del curso "Curso de Ract con Vitejs y Tailwind CSS" ofrecido por Platzi.
