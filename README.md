@@ -27,7 +27,7 @@ To run this project, you need to have Node.js and npm (Node Package Manager) ins
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/eCommerce.git
+   git clone https://github.com/ferguevara2000/Curso-React-con-Vitejs-Tailwind.git
 
 2. Install dependencies:
 
